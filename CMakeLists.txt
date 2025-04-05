@@ -123,6 +123,7 @@ list(APPEND BT_SOURCE
     src/controls/sequence_with_memory_node.cpp
     src/controls/switch_node.cpp
     src/controls/while_do_else_node.cpp
+    src/controls/reactive_parallel_node.cpp
 
     src/loggers/bt_cout_logger.cpp
     src/loggers/bt_file_logger_v2.cpp
